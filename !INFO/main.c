@@ -234,3 +234,12 @@
     strrchr()   Returns a pointer to the last occurrence of a character in a string
     strstr()    Returns a pointer to the first occurrence of a string in another string
     */
+
+    /*
+    Predefined macros
+    __DATE__    The current date as a character literal in "MMM DD YYYY" format
+    __TIME__    The current time as a character literal in "HH:MM:SS" format
+    __FILE__    This contains the current filename as a string literal
+    __LINE__    This contains the current line number as a decimal constant
+    __STDC__    Defined as 1 when the compiler complies with the ANSI standard
+    */
