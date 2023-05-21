@@ -23,4 +23,7 @@ int main(){
 
     calc(&length, &width, &height, &result[500]);
     result;
+
+    system("pause");
+    return 0;
 }
